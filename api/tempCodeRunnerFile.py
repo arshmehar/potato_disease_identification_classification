@@ -1,0 +1,1 @@
+    image=read_file_as_image(await file.read())
